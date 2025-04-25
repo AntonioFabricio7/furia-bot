@@ -1,0 +1,62 @@
+{
+  "titulares": [
+    {
+      "nick": "MOLODOY",
+      "nomeCompleto": "Danil Golubenko",
+      "nacionalidade": "🇰🇿 Cazaquistão",
+      "função": "AWPer"
+    },
+    {
+      "nick": "YEKINDAR",
+      "nomeCompleto": "Mareks Gaļinskis",
+      "nacionalidade": "🇱🇻 Letônia",
+      "função": "Rifler"
+    },
+    {
+      "nick": "FalleN",
+      "nomeCompleto": "Gabriel Toledo",
+      "nacionalidade": "🇧🇷 Brasil",
+      "função": "AWPer / IGL"
+    },
+    {
+      "nick": "KSCERATO",
+      "nomeCompleto": "Kaike Cerato",
+      "nacionalidade": "🇧🇷 Brasil",
+      "função": "Rifler"
+    },
+    {
+      "nick": "yuurih",
+      "nomeCompleto": "Yuri Santos",
+      "nacionalidade": "🇧🇷 Brasil",
+      "função": "Rifler"
+    }
+  ],
+  "reservas": [
+    {
+      "nick": "skullz",
+      "nomeCompleto": "Felipe Medeiros",
+      "nacionalidade": "🇧🇷 Brasil",
+      "função": "Rifler"
+    },
+    {
+      "nick": "chelo",
+      "nomeCompleto": "Marcelo Cespedes",
+      "nacionalidade": "🇧🇷 Brasil",
+      "função": "Entry / Support"
+    }
+  ],
+  "coaches": [
+    {
+      "nick": "Hepa",
+      "nomeCompleto": "Juan Borges",
+      "nacionalidade": "🇪🇸 Espanha",
+      "função": "Assistant Coach"
+    },
+    {
+      "nick": "sidde",
+      "nomeCompleto": "Sidney de Paula",
+      "nacionalidade": "🇧🇷 Brasil",
+      "função": "Head Coach"
+    }
+  ]
+}
